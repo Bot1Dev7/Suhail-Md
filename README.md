@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> 𝕄𝔸ℝℂ-𝕄𝔻 </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -9,14 +9,14 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="https://telegra.ph/file/758549f0de2219884f387.jpg">
+    <img alt="Suhail-Md" height="400" src="https://telegra.ph/file/c19c9914108f3bdfba645.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-   <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
+   <a href="https://github.com/Bot1Dev7/Suhail-Md/fork">
     <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
    </a>
   <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
@@ -108,12 +108,12 @@
 ## Deployment Methods
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
-2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
-3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` for Courage.***
-4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
+2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YGlqkl4). `Optional`***
+3.  ***Click [`FORK`](https://github.com/Bot1Dev/Suhail-Md/fork) and `Star ⭐ Repository` for Courage.***
+4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3J6_1cJM)***
 5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=heroku)***
-6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
-7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
+6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPOjMryQ) )***
+7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVK4qmcc) )***
 8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
 9. ***Deploy on [`Glitch`](https://suhail-web01.vercel.app/deploy?platform=glitch)***
 10. ***Deploy on [`RENDER`](https://dashboard.render.com/login)***
@@ -146,7 +146,7 @@
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *𝕄𝔸ℝℂ-𝕄𝔻 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use 𝕄𝔸ℝℂ-𝕄𝔻 at your own risk by keeping this warning in mind.*
 
